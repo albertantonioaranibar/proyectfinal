@@ -18,7 +18,7 @@ body{
     margin-right: 0px;
 }
 .fondo_delantera{
-    background: url(../img/spot.avif) no-repeat;
+    background: url(../img/spot.jpg) no-repeat;
     background-size: cover;
     width: 1124px;
     height: 390px;
